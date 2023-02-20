@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://results-summary-three.vercel.app/#)
+- [Live Site URL ](https://results-summary-three.vercel.app/#)
 
 ### Built with
 
