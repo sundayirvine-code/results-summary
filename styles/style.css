@@ -3,17 +3,17 @@
 body{
     margin: 0;
     padding: 0;
-    height: 1000px;
+    height: 800px;
     box-sizing: border-box;
     font-size: 18px;
     font-family: 'Hanken Grotesk', sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow:scroll;
+    overflow:none;
 }
 section{
-    height: 98%;
+    height: 70%;
     width: 750px;
     margin: 0 auto;
     padding: 0;
