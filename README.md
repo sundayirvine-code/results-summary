@@ -47,7 +47,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Irvine Sunday](https://www.your-site.com)
+- Website - [Irvine Sunday](https://irvine-sunday-portfolio.vercel.app/)
 - Frontend Mentor - [sundayirvine-code](https://www.frontendmentor.io/profile/sundayirvine-code)
 
 
